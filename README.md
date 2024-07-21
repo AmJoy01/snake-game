@@ -6,7 +6,7 @@
 <h1 align="center">Snake Game in Python</h1>
 
 <p align="center">
-<img src="game_img/snake_game_beta.gif" alt="Snake Game Beta gif"/>
+<img src="game_img/snake_game_beta.gif" alt="Snake Game Beta gif" height="300" width="300"/>
 </p>
 
 <!-- TABLE OF CONTENTS -->
